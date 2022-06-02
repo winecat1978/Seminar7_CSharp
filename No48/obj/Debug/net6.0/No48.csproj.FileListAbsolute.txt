@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\bin\Debug\net6.0\No48.exe
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\bin\Debug\net6.0\No48.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\bin\Debug\net6.0\No48.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\bin\Debug\net6.0\No48.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\bin\Debug\net6.0\No48.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\refint\No48.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\No48.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Seminar7_CSHARP\No48\obj\Debug\net6.0\ref\No48.dll
